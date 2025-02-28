@@ -18,7 +18,8 @@
 
 # misc
 .DS_Store
-*.pem
+*.pemNEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_ZHJpdmluZy1yYXZlbi00Ni5jbGVyay5hY2NvdW50cy5kZXYk
+CLERK_SECRET_KEY=sk_test_Ope52Rb30pvUyFs97rYRe8DKvUt0A2V7bk13vZ0oVx
 
 # debug
 npm-debug.log*
@@ -34,3 +35,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+#firebase
+firebase.ts
+
+#service_key
+service_key.json
